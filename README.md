@@ -7,4 +7,4 @@ Unity 6.0 (6000.0.47f1)
 
 Si  no se instala Unity 6.0, no podrá ejecutar el proyecto.
 
-Link video YT: 
+Link video YT: https://www.youtube.com/watch?v=hLqIe633B6w
